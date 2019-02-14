@@ -32,17 +32,18 @@
             $(e).addClass("on");
         }
         $.ajax({
-            url: '${ctx}/api/test',
+            url: '${ctx}/goods/findByPage',
             type: 'POST',
             data: {
-                "limit": 50,
+                "pageSize": 50,
                 "name": name,
-                 page: currentPage
+                pageNum: currentPage
             },
 
             success: function (data) {
                 if (data) {
                     var page = data;
+                     page=eval('('+data+')');
                     var $ItemWrapper=$("#ItemWrapper");
                         $ItemWrapper.empty();
                         currentpagenum = page.pageNumber;
