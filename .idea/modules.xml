@@ -3,6 +3,15 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-cloud-jfinal-demo.iml" filepath="$PROJECT_DIR$/.idea/spring-cloud-jfinal-demo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-account/spring.cloud.account.iml" filepath="$PROJECT_DIR$/spring-cloud-account/spring.cloud.account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-biz/spring.cloud.biz.iml" filepath="$PROJECT_DIR$/spring-cloud-biz/spring.cloud.biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-client/spring.cloud.client.iml" filepath="$PROJECT_DIR$/spring-cloud-client/spring.cloud.client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-eureka/spring.cloud.eureka.server.iml" filepath="$PROJECT_DIR$/spring-cloud-eureka/spring.cloud.eureka.server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-gateway/spring.cloud.gateway.iml" filepath="$PROJECT_DIR$/spring-cloud-gateway/spring.cloud.gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-jfinal/spring.cloud.jfinal.iml" filepath="$PROJECT_DIR$/spring-cloud-jfinal/spring.cloud.jfinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-parent/spring.cloud.parent.iml" filepath="$PROJECT_DIR$/spring-cloud-parent/spring.cloud.parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-seckill/spring.cloud.seckill.iml" filepath="$PROJECT_DIR$/spring-cloud-seckill/spring.cloud.seckill.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-cloud-starter/spring.cloud.starter.iml" filepath="$PROJECT_DIR$/spring-cloud-starter/spring.cloud.starter.iml" />
     </modules>
   </component>
 </project>
