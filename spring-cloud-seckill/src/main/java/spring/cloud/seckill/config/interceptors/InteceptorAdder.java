@@ -1,4 +1,4 @@
-package spring.cloud.biz.config.interceptors;
+package spring.cloud.seckill.config.interceptors;
 
 import com.alibaba.fastjson.support.spring.FastJsonHttpMessageConverter4;
 import org.springframework.beans.factory.annotation.Autowired;

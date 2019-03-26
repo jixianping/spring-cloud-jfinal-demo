@@ -3,7 +3,7 @@ package spring.cloud.seckill.config;
 import org.springframework.cloud.context.config.annotation.RefreshScope;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
-import spring.cloud.biz.config.interceptors.GlobalAspectInteceptor;
+import spring.cloud.seckill.config.interceptors.GlobalAspectInteceptor;
 import springfox.documentation.builders.ApiInfoBuilder;
 import springfox.documentation.builders.PathSelectors;
 import springfox.documentation.builders.RequestHandlerSelectors;

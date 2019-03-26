@@ -1,4 +1,4 @@
-package spring.cloud.biz.config.interceptors;
+package spring.cloud.seckill.config.interceptors;
 
 import com.google.common.base.Strings;
 import org.slf4j.Logger;
